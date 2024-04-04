@@ -8,4 +8,20 @@
   body {
     @apply mx-auto
   }
+
+
+}
+
+@layer utilities {
+  .assistant {
+    box-shadow:
+      -6px -4px 7px -7px rgba(51, 65, 85),
+      6px -4px 7px -7px rgba(51, 65, 85),
+      0px -4px 7px -7px rgba(51, 65, 85);
+
+  }
+
+  .flex-center {
+    @apply flex items-center justify-between
+  }
 }
