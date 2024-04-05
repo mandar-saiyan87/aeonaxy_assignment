@@ -1,5 +1,5 @@
 import React from 'react'
-import heroimg from '../../assets/images/hero-phone.png'
+import heroimg from '/assets/images/hero-phone.png'
 
 function Section1() {
   return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import pplogo from '../assets/images/PayPal-Logo.png'
+import pplogo from '/assets/images/PayPal-Logo.png'
 
 function Navbar() {
   return (
